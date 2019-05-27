@@ -1,3 +1,3 @@
-# farerecognitionbrain
+# facerecognitionbrain
 
 npm start
