@@ -7,6 +7,9 @@ body {
 button{
   cursor: pointer;
 }
+.box{
+  border:1px  solid red;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
